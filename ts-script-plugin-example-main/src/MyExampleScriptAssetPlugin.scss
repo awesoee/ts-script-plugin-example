@@ -1,0 +1,17 @@
+// Add variables to use inside of your script
+
+$globalTextColor: white;
+$globalBackgroundColor: #111111;
+
+// Automatically stylize classes
+
+.MyScriptAssetConfig {
+    color: $globalTextColor;
+    background: $globalBackgroundColor;
+    text-align: center;
+}
+
+.MyScriptAssetComponent {
+    color: $globalTextColor;
+    background: $globalBackgroundColor;
+}
